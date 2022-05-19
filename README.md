@@ -6,7 +6,7 @@ I was tasked with creating a random password generator that prompted the user to
  
 ## Usage
 
-This site can be used to generate random passwords based on given criteria. Please note, there is no guaruntee these passwords will be secure enough to protect sensitive information, below you will find a screenshot of the current deployment of the site: ![Screenshot](/sceenshot.jpg)
+This site can be used to generate random passwords based on given criteria. Please note, there is no guaruntee these passwords will be secure enough to protect sensitive information, below you will find a screenshot of the current deployment of the site: ![Screenshot](screenshot.jpg)
 
 
 Here you can find a link to the deployed application : [Website](https://borthvader.github.io/supreme-octo-invention/)
